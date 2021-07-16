@@ -1,24 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# api_project
 
-Things you may want to cover:
+## Descrição do projeto
 
-* Ruby version
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">Projeto em rails com integração do algoritmo bogosort</p>
 
-* System dependencies
+## Para rodar o projeto
 
-* Configuration
+No terminal clone o projeto:
+git clone https://github.com/dianasc97/api-project.git
 
-* Database creation
+Entre na pasta do projeto:
+cd api_project
 
-* Database initialization
+Execute a aplicação:
+rails s -p 4000
 
-* How to run the test suite
+Obs: o projeto se encontra na porta 4000
 
-* Services (job queues, cache servers, search engines, etc.)
+</p>
 
-* Deployment instructions
+## Status do Projeto
 
-* ...
+<h4 align="center"> 
+    Status do Projeto: Projeto Concluido
+</h4>
